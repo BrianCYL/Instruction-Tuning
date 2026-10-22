@@ -22,7 +22,7 @@ Then, the folder structure should be similar to the one below:
 
 ## Training
 
-### Gemma-2 Model
+### `Gemma-2 Model`
 Pleace run the following command:
 ```
 bash train.sh gemma
@@ -40,7 +40,7 @@ Also, the json file of the evaluation perplexity is included in the checkpoint f
     |- ppl_tracking.json
 ```
 
-### Taiwan Llama 8B Model
+### `Taiwan Llama 8B Model`
 Pleace run the following command:
 ```
 bash train.sh llama
